@@ -33,5 +33,5 @@ yesno() {
 	fi
 }
 
-yesno "Next" "Cancel" "Welcome to the Wii Linux Installer!\nThis program will install [REDACTED] Linux to your SD Card or USB device.\n\nIf you don't wish to proceed, press the Cancel button to restart.\nIf you want to proceed to partition your storage media, press Next."
+yesno "Next" "Cancel" "Welcome to the Wii Linux Installer!\nThis program will install Wii Linux to your SD Card or USB device.\n\nIf you don't wish to proceed, press the Cancel button to restart.\nIf you want to proceed to partition your storage media, press Next."
 
