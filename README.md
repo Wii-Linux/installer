@@ -1,3 +1,7 @@
+# !!DEPRECATED!!
+**Use [pc-installer](https://github.com/Wii-Linux/pc-installer) instead rather than this legacy IOS kernel based installer!!**  
+Original README below
+
 # Wii Linux Installer
 
 The Wii Linux Installer.
